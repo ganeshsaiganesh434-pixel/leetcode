@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ganeshsaiganesh434-pixel/leetcode/tree/master/0054-spiral-matrix) |
+| [0118-pascals-triangle](https://github.com/ganeshsaiganesh434-pixel/leetcode/tree/master/0118-pascals-triangle) |
 | [0560-subarray-sum-equals-k](https://github.com/ganeshsaiganesh434-pixel/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
@@ -22,4 +23,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ganeshsaiganesh434-pixel/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/ganeshsaiganesh434-pixel/leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
