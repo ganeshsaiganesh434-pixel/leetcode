@@ -41,4 +41,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ganeshsaiganesh434-pixel/leetcode/tree/master/0229-majority-element-ii) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ganeshsaiganesh434-pixel/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
